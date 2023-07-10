@@ -1,6 +1,6 @@
 package Carros;
 
-abstract class Carro {
+public abstract class Carro {
     private int ano;
     private String modelo;
 
